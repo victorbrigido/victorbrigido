@@ -21,19 +21,20 @@
 
 ### Main skills:
 ![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=nodejs&labelColor=0D1117)&nbsp;
+![IOS](https://img.shields.io/badge/-IOS-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117)&nbsp;
 ![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=reactnative&labelColor=0D1117)&nbsp;
+![Phyton](https://img.shields.io/badge/-Phyton-0D1117?stylr=for-the-badge&logo=Phyton&labelColor=0D1117)
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp; 
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;
+![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=NoSQL&labelColor=0D1117)&nbsp;
+
 
   
   
  
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117&textColor=0D1117)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=SQL&labelColor=0D1117&textColor=0D1117)&nbsp;
-![NoSQL](https://img.shields.io/badge/-NoSQL-0D1117?style=for-the-badge&logo=NoSQL&labelColor=0D1117)&nbsp;
-![Phyton](https://img.shields.io/badge/-Phyton-0D1117?stylr=for-the-badge&logo=Phyton&labelColor=0D1117)
+![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=nodejs&labelColor=0D1117)&nbsp;
+![IOS](https://img.shields.io/badge/-IOS-0D1117?style=for-the-badge&logo=ios&labelColor=0D1117)&nbsp;
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{victorbrigido}/count.svg" /></p> 
