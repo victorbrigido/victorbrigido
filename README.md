@@ -6,5 +6,5 @@
 🌍 Based in Brazil.  
 📚 Currently studying Information Systems.  
 🎓 Intern in the iOS development program.  
-💻 Web & iOS Developer with a focus for crafting solutions.
+💻 iOS & Web Developer with a focus for crafting solutions.
 
