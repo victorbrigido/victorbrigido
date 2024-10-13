@@ -3,8 +3,6 @@
 
 
 🎓 About me:  
-🌍 Based in Brazil.  
-📚 Currently studying Information Systems.  
-🎓 Intern in the iOS development program.  
+🌍 Based in Brazil.   
 💻 iOS Developer with a focus for crafting solutions.
 
